@@ -2,9 +2,7 @@
 
 [Inventory system gif](https://user-images.githubusercontent.com/105884435/184649534-75b88c1f-189b-4600-b9d1-21c3a03a36ca.gif)
 
-##InventorySystem_README.txt
-
-#Player controls:
+# Player controls:
 - awsd or key arrows for player movement
 - escape button quits game.
 - i open/close inventory.
@@ -18,7 +16,7 @@
 -inventory system is a drag and drop system
 -left click on a item to use it
 
-#Inventory scripts
+# Inventory scripts
 
 //inventory.cs
 -open/close inventory screen
@@ -39,7 +37,7 @@
 -has 2 buttons(use, remove)
 
 
-#loadout scripts
+# loadout scripts
 
 //loadout.cs
 -open/close inventory screen
@@ -58,7 +56,7 @@
 -has function for using an item
 -has 2 buttons(use, remove)
 
-#Player scripts
+# Player scripts
 
 //playerMove.cs
 -handles player movement
@@ -73,7 +71,7 @@
 //healthBar.cs
 -has 2 functions to add/remove health
 
-#Other scripts
+# Other scripts
 
 //floorDrop.cs
 -checks if an item has been dragged and dropped outside of the inventory/loadout screen
